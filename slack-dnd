@@ -8,7 +8,7 @@ COMMAND=${1:-}
 print_usage () {
     echo "Usage: start-dnd [start|end]"
     echo
-    echo "    start [duration]  Starts \"Do not Disturb\" with the defined duration"
+    echo "    start [duration]  Starts \"Do not Disturb\" with defined duration"
     echo "    end               Ends current \"Do not Disturb\" session"
     echo
     echo
