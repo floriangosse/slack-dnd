@@ -21,7 +21,7 @@ slack-dnd start 60
 To stop a current session immediately run:
 
 ```
-slack-dnd stop
+slack-dnd end
 ```
 
 
